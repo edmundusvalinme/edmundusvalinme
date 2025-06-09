@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Edmund!
 
-**🎯 Currently working at JULO as a QA Engineer, contributing to various web and mobile application testing initiatives, and actively supporting both manual and automation QA efforts. | 7+ Years of Experience | Passionate About Quality**
-
 Welcome to my GitHub! I'm a Quality Assurance Engineer with hands-on experience in both **manual** and **automation testing** for **web and mobile applications**. I'm currently on a journey to deepen my skills in **test automation, scripting, and continuous testing** to help teams ship confidently with speed and quality.
+
+**🎯 Currently working at JULO as a QA Engineer | 7+ Years of Experience | Passionate About Quality**
 
 ---
 
